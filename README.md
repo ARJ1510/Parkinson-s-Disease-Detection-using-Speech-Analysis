@@ -26,8 +26,7 @@ pip install numpy pandas librosa sounddevice soundfile scikit-learn seaborn matp
 
 2. Clone the Repository
 
-git clone https://github.com/shya46/Parkinson-s-disease.git
-cd Parkinson-s-disease
+git clone https://github.com/ARJ1510/Parkinson-s-Disease-Detection-using-Speech-Analysis
 
 Usage :
 
